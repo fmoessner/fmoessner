@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on TinyDungeon for Fair Game: https://fairgames.fun/
+- 🔭 I’m currently working on TinyDungeon for Fair Games: https://fairgames.fun/
 - 🌱 I’m currently learning Angular / ASP .net
 - 💬 Ask me about PYthon, C#, Git, Docker, Django, Linux, REST, .NET, Splunk, CI/CD, Confluence, Zeiss microscopy automation
 - 📫 How to reach me: https://www.linkedin.com/in/fabianmoessner
