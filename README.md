@@ -1,5 +1,5 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=moessner&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_rank=true)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moessner&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_rank=true">
 <hr>
 
 <p align="middle">
@@ -10,4 +10,6 @@
 
 <hr>
 
-- 📫 How to reach me: https://www.linkedin.com/in/fabianmoessner
+<p align="middle">
+<a href="https://www.linkedin.com/in/fabianmoessner">LinkedIn</a>
+</p>
